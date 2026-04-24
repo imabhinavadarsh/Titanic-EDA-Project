@@ -3,11 +3,6 @@
 # 🚢 Titanic EDA Project  
 ### *Data-Driven Insights from the World's Most Famous Voyage*  
 
-![GitHub stars](https://img.shields.io/badge/Project-EDA-blue?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-Analytics-yellow?style=for-the-badge&logo=python)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
-![Dataset](https://img.shields.io/badge/Dataset-Kaggle-orange?style=for-the-badge)
-
 </div>
 
 ---
